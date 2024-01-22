@@ -1,6 +1,8 @@
 body {
     background-color: rgb(161, 159, 164);
     text-align: center;
+    margin: 0;
+    height: 600px;
 }
 
 
@@ -26,4 +28,8 @@ body {
     margin: 0px 5px 0px 5px;
     border:none;
     cursor: pointer;
+}
+
+.task_buttons:hover{
+    background-color: rgb(169, 169, 164);
 }
