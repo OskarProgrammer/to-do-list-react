@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(161, 159, 164);
+    text-align: center;
+}
+
+
+
+.task{
+    border: 1px black solid;
+    box-shadow: 5px 5px 5px rgba(59, 59, 59, 0.483);
+    padding: 10px;
+    background-color: rgb(160, 153, 153);
+    margin: 50px;
+}
+
+.task_title {
+    color:azure;
+    font-weight: bold;
+    margin: 0;
+}
+
+.task_buttons{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(164, 164, 168);
+    margin: 0px 5px 0px 5px;
+    border:none;
+    cursor: pointer;
+}
